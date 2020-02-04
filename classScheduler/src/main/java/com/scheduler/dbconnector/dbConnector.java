@@ -14,7 +14,7 @@ public class dbConnector {
 	public void performConnection() {		
 		String url = "jdbc:mysql://127.0.0.1:3306/classroom";
 		String username = "root";
-		String password = "element337";
+		String password = "elmt7";
 		
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
